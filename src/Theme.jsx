@@ -6,7 +6,7 @@ export const LightDarkMode=()=>{
         <div style={{
             backgroundColor:darkMode ? "#333" : "#fff",
             color:darkMode ? "#fff" : "#000",
-            height:"10vh",
+            height:"100vh",
             display:"flex",
             alignItems:"center",
             justifyContent:"center",
